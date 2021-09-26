@@ -1,0 +1,26 @@
+.member-style{
+    background-color: mintcream;
+    margin: 20px;
+    border: 2px solid gray;
+    border-radius: 10px;
+    padding-bottom: 20px;
+    text-align: center;
+}
+.member-style img{
+    width: 150px;
+    height: 150px;
+    border-radius: 50px;
+    padding-top: 15px;
+}
+.member-style button{
+    height: 35px;
+    width: 140px;
+    background-color: white;
+    border-radius: 10px;
+    cursor: pointer;
+}
+.member-style div{
+    text-align: left;
+    margin-left: 30px ;
+    font-weight: 500;
+}
